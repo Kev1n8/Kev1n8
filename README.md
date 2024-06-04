@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🧑‍🎓 I'm a college student majoring in CS. 
+📚 I'm learning stuff related to DB and Neural Networks.
+🔭 I'm doing research on Facial Expression Recognition.
+
 <!--
 **Kev1n8/Kev1n8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
