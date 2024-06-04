@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 🧑‍🎓 I'm a college student majoring in CS. 
+
 📚 I'm learning stuff related to DB and Neural Networks.
+
 🔭 I'm doing research on Facial Expression Recognition.
 
 <!--
