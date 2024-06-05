@@ -2,9 +2,11 @@
 
 🧑‍🎓 I'm a college student majoring in Computer Science. 
 
-📚 I'm currently learning stuff related to Database and Neural Networks.
+📚 I'm currently learning about Database and Neural Networks.
 
-🔭 I'm currently doing research on Facial Expression Recognition.
+🔭 I’m conducting research on Facial Expression Recognition.
+
+🔥 I’m passionate about cool technologies and sci-fi.
 
 <!--
 **Kev1n8/Kev1n8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
