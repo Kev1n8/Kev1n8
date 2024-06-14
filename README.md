@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧑‍🎓 I'm a graduate student majoring in Computer Science. 
+🧑‍🎓 I'm a undergraduate student majoring in Computer Science. 
 
 📚 I'm currently learning about Database and Neural Networks.
 
