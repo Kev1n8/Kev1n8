@@ -8,6 +8,8 @@
 
 🔥 I’m passionate about cool technologies and sci-fi.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luv-Ray&layout=compact&show_icons=true&count_private=true&theme=tokyonight&langs_count=6)](https://github.com/Luv-Ray)
 <!--
 **Kev1n8/Kev1n8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
