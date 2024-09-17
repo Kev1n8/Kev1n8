@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧑‍🎓 I'm an undergraduate student majoring in Computer Science. 
+🧑‍🎓 I'm an undergraduate student.
 
 📚 I'm currently learning about Database.
 
