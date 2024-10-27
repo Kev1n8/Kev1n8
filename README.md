@@ -6,6 +6,8 @@
 
 🦀 Fan of Rust.
 
+🐧 Currently interning at [Tencent](https://www.tencent.com).
+
 Contact:
 `echo a2V2MW4yaEBvdXRsb29rLmNvbQo= | base64 -d`
 
