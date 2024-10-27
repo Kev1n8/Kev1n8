@@ -4,7 +4,7 @@
 
 📚 I'm currently learning about Database.
 
-🦀 Fan of Rust.
+🦀 Rustacean at heart.
 
 🐧 Currently interning at Tencent.
 
