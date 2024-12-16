@@ -2,9 +2,7 @@
 
 🧑‍🎓 I'm an undergraduate student.
 
-📚 I'm currently learning about Database.
-
-🦀 Rustacean at heart.
+🦀 Rustacean.
 
 🐧 Currently interning at Tencent.
 
