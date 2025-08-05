@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-🧑‍🎓 I'm an undergraduate student.
-
-🦀 Rustacean.
-
-🐧 Currently interning at Tencent.
+🦀 | 🐧
 
 Contact:
 `echo a2V2MW4yaEBvdXRsb29rLmNvbQo= | base64 -d`
